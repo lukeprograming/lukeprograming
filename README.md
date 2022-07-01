@@ -1,6 +1,9 @@
 <h1 style="font-size:10vw">Lucas Gabriel - 17 anos </h1>
 
-É... num sei muito o que coloca aqui, então vo fala um pouco sobre gostos, gosto de desenha, fazer modelagem 3D, as vezes eu tento um HTML para passa o tempo, minha linguagem de programação favorita atualmente é Python, gosto um pouco de C#, Java é a que to menos familiarizado mas é uma linguagem interessante.
+aTUALIZANDO PEFIL.
+
+Atualmente estou no desenvolvimento de um projeto de site, onde irei divulgar meus projetos, iniciei 2 projetos pessoas, uma conta para eu divulgar meus trabalhos com Designer e outra para eu mostra meus trabalhos como programador, atualmente tenho conhecimentos em varias linguagens de programação, alguns novos frameworks, e decidi foca em desenvolvimento FullStack, meu foco estar mais no front End, aprendi sobre responsividade, estilos de sites, também sobre desenvolvimento de API, atualmente ainda não coloquei em pratica, apenas li os conceitos de APi e planejo fazer uma assim que termina meu site,
+
 
 <div style="Display: inline_block; font-size:20vw"></br>
   <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
