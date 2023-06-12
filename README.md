@@ -1,6 +1,6 @@
-<h1 style="font-size:10vw">Lucas Gabriel - 17 anos </h1>
+<h1 style="font-size:10vw">Lucas Gabriel - 13 anos </h1>
 
-aTUALIZANDO PEFIL.
+ATUALIZANDO PEFIL.
 
 Atualmente estou no desenvolvimento de um projeto de site, onde irei divulgar meus projetos, iniciei 2 projetos pessoas, uma conta para eu divulgar meus trabalhos com Designer e outra para eu mostra meus trabalhos como programador, atualmente tenho conhecimentos em varias linguagens de programação, alguns novos frameworks, e decidi foca em desenvolvimento FullStack, meu foco estar mais no front End, aprendi sobre responsividade, estilos de sites, também sobre desenvolvimento de API, atualmente ainda não coloquei em pratica, apenas li os conceitos de APi e planejo fazer uma assim que termina meu site,
 
@@ -19,7 +19,7 @@ Atualmente estou no desenvolvimento de um projeto de site, onde irei divulgar me
 
 <hr/>
 
-<h1> Metas de Linguagem para 2022 </h1>
+<h1> Metas de Linguagem para 2023 </h1>
 
 <div style="Display: inline_block"></br>
   <img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -28,7 +28,7 @@ Atualmente estou no desenvolvimento de um projeto de site, onde irei divulgar me
 </div>
 
 <div>
-  <h1 style="font-family: Arial"> Metas Concluidads em 2022 </h1>
+  <h1 style="font-family: Arial"> Metas Concluidads em 2023 </h1>
   
   <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>   
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
