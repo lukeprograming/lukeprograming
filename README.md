@@ -2,7 +2,10 @@
 
 ATUALIZANDO PEFIL.
 
-Atualmente estou no desenvolvimento de um projeto de site, onde irei divulgar meus projetos, iniciei 2 projetos pessoas, uma conta para eu divulgar meus trabalhos com Designer e outra para eu mostra meus trabalhos como programador, atualmente tenho conhecimentos em varias linguagens de programação, alguns novos frameworks, e decidi foca em desenvolvimento FullStack, meu foco estar mais no front End, aprendi sobre responsividade, estilos de sites, também sobre desenvolvimento de API, atualmente ainda não coloquei em pratica, apenas li os conceitos de APi e planejo fazer uma assim que termina meu site,
+09-07-2023 - Após um longo periodo de Burnout, finalmente voltei a programar, agora com uma area de foco, Web ou Full stack, talvez eu de uma passadinha mais para frente
+pela area de criação de jogos, mas por enquanto é isso, acho que recomeçarei com alguns projetos Webs mais comuns, como pagina de vendas, sites de vendas
+curriculos, noticias, entre outros nesse estilo, por hora é recupera o tempo perdido, finalizando Java Script, partindo para SQL e continunado com um framework.
+ bom creio que seja isso a atualização de apos quase 1 ano sem entra em um IDE, mas enfim, o importante é sempre conseguir se recuperar dessas baixas.
 
 
 <div style="Display: inline_block; font-size:20vw"></br>
