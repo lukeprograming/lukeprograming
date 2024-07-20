@@ -1,6 +1,8 @@
 <h1 style="font-size:10vw">Lucas Gabriel - 19 anos </h1>
 
 ATUALIZANDO PEFIL.
+20-07-2024 - Longo tempo sem atualizar aqui, enfim, fiquei alguns meses estudando para concursos na area de TI/Desenvolvedor e adquirindo novas SoftSkills, finalizei alguns cursos pendentes, falta apenas pega o certificado, agora estou em busca de aplciar meus novos conhecimentos nesses 1 ano desde minha atualização e disposto a novos desafios.
+
 
 09-07-2023 - Após um longo periodo de Burnout, finalmente voltei a programar, agora com uma area de foco, Web ou Full stack, talvez eu de uma passadinha mais para frente
 pela area de criação de jogos, mas por enquanto é isso, acho que recomeçarei com alguns projetos Webs mais comuns, como pagina de vendas, sites de vendas
